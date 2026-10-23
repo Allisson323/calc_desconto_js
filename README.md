@@ -1,1 +1,2 @@
 # calc_desconto_js
+Estou desenvolvendo uma Calculadora de Descontos utilizando HTML, CSS e JavaScript. A ideia é criar uma ferramenta simples e prática que ajude as pessoas a calcular descontos nas compras, mostrando quanto vão economizar e qual será o valor final do produto. O projeto utiliza duas regras de desconto: 5% para compras acima de R$ 100,00 e 10% para compras acima de R$ 500,00. Além de ser útil no dia a dia, esse projeto me ajuda a colocar meus conhecimentos em prática e aprender cada vez mais sobre programação.
